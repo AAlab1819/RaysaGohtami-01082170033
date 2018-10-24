@@ -36,3 +36,4 @@ Determine if he can do that.
 First, we input *n* number of sessions, then each sessions we input *teams[i]* number of teams in *i*th session.
 Then, I create two if-loops. First is to determine if *i*th session has 0 teams and if the next *i*th session 
 has less than 2 teams, meaning he can't use either coupons or discounts. And the other one, vice versa.
+If the condition met, then the output will be straight away "NO".
