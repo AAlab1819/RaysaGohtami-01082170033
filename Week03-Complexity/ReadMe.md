@@ -17,6 +17,8 @@ Complexity:<br>
 `Average case= *θ(nlogn)*`<br>
 `Best case= *Ω(n)*`<br>
 
+Submission Link: http://codeforces.com/problemset/submission/492/45118793
+
 
 # Insomnia Cure
 This problem is asking for how many dragons got damaged physically or morally in the princess' imagination.
@@ -38,6 +40,8 @@ Complexity:<br>
 `Average case= *θ(n)*`<br>
 `Best case= * Ω(n)*`<br>
 
+Submission Link: http://codeforces.com/contest/148/submission/42906371
+
 
 # I Wanna Be the Guy
 This problem is about a game called "I Wanna Be the Guy". Consisting of *n* levels, there's Little X and Little Y 
@@ -57,3 +61,5 @@ Complexity:<br>
 `Worst case= *O(n^2)*` <br>
 `Average case= *θ(n)*` <br>
 `Best case= *Ω(n)*` <br>
+
+Submission Link: http://codeforces.com/contest/469/submission/42883382
