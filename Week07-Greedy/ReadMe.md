@@ -6,6 +6,8 @@ First, we input *n* integers, then an array of *n*. To get the maximum possible 
 numbers below 0 to sequence *c*. To do that, I create an if-loop for each array determining if the *i*th array 
 is smaller than 0, then we add it to *c*, and the rest would be added to *b*.
 
+Submission Link: http://codeforces.com/contest/988/submission/45118633
+
 # File Name
 This problem is asking how many unexpected problem occured when Polycarp sent a file. It is a problem if the 
 file contains 3 or more consecutive *x* character. First, we input *n* numbers of file, then an array of *n* 
@@ -25,6 +27,8 @@ array[2] and array[3] has 3 consecutive x,
 therefore the output would be 2.
 ```
 
+Submission Link: http://codeforces.com/problemset/submission/978/45119043
+
 # Coupons and Discounts
 This problem is asking about Sereja who is a coach for ICPC teams. He has *n* number of sessions, and each session 
 has *i* team. During every session, Sereja is to buy a pizza for a team. His favorite pizzeria will give out 
@@ -37,3 +41,5 @@ First, we input *n* number of sessions, then each sessions we input *teams[i]* n
 Then, I create two if-loops. First is to determine if *i*th session has 0 teams and if the next *i*th session 
 has less than 2 teams, meaning he can't use either coupons or discounts. And the other one, vice versa.
 If the condition met, then the output will be straight away "NO".
+
+Submission Link: http://codeforces.com/problemset/submission/731/45119057
