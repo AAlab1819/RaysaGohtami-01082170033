@@ -32,6 +32,8 @@ of *sum* will be *+1* each time the requirement meets.
 
 Finally, for every *sum* added, we ouput it.
 
+Submission Link: http://codeforces.com/problemset/submission/291/45118749
+
 
 # DRAGONS
 This problem is telling us about Kirito playing a game of fighting dragons. Each level has *n* number 
@@ -72,6 +74,8 @@ dragon(*dragons*-1), then he's able to move on the next round, hence the output 
 breaking the loop. If the condition is other than *kstrength*>=*dstrength[i]*, then the output will be 
 "NO", and will break the loop.
 
+Submission Link: http://codeforces.com/problemset/submission/230/45118693
+
 
 # OATH OF THE NIGHT'S WATCH
 This problem begins with the Night's Watch Oath for men who will serve the Night's Watch.
@@ -103,3 +107,5 @@ Finally, after the bogo sort is done, to check how many stewards has another ste
 greater and less than itself, I subtract the number of stewards by 2. The 2 is the one with the least strength 
 and the one with the greatest strength, because they couldn't have been supported by Jon. And so id the 
 output is less than 0, the output will be 0.
+
+Submission Link: http://codeforces.com/problemset/submission/768/45118768
