@@ -17,7 +17,8 @@ want to obtain, the amount of crystals needed are subtracted from the amount of 
 
 After we subtracted all the crystals needed to make the balls, if the crystals in the disposal are not enough, the
 number of crystal needed will show. If the crystal in the disposal is already enough, the number of the crystals left
-in the disposal will show as minus(-).
+in the disposal will show as minus(-).<br>
+[Submission Link 912A] (http://codeforces.com/problemset/submission/912/45118471)
 
 
 # Problem 854: Fraction
