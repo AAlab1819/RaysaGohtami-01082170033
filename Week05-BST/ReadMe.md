@@ -12,12 +12,16 @@ If an employee does't have an immediate manager, his/her number will be -1.
 
 The output will be a number of minumum groups must be created.
 
+Submission Link: http://codeforces.com/contest/115/submission/43775282
+
 # CHRISTMAS SPRUCE
 This problem is asking if a rooted tree is *spruce* or not, in which *spruce* is if every parent 
 has at least 3 leaf children.
 
 First, we input how many vertex a tree has. And every root tge vertex is 1. Then, we input the 
 remaining vertex. If it is spruce, then the output will be "Yes", otherwise, "No".
+
+Submission Link: http://codeforces.com/contest/913/submission/43775325
 
 # Registration System
 This problem is about a registration system for "Berlandesk". Every user register him/herself with a 
@@ -28,3 +32,5 @@ back, hence the output will be "name1", "name2", and so on.
 
 First, we input the number of people who register. Then, each person input his/her name. Then, the 
 database will check every name if it has existed or no, then will output according to the system made.
+
+Submission Link: http://codeforces.com/contest/4/submission/43775397
