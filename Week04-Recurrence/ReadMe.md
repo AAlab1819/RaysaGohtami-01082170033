@@ -19,6 +19,8 @@ If the position is not less than or greater than the cell number, then return.
 Every position *+1* and *-1* to (x,y) counts whether its a ' * '. And then finally the output is the 
 number Igor has visited.
 
+Submission Link: http://codeforces.com/problemset/submission/598/45118876
+
 
 # Buttons
 This problem is asking how many times Manao will have to pressed every button in order in the worst case possible.
@@ -59,3 +61,5 @@ int times(int buttons)
 return num;
 }
 ```
+
+Submission Link: http://codeforces.com/problemset/submission/268/45118900
