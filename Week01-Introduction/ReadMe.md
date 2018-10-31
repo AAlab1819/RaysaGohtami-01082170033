@@ -17,8 +17,9 @@ want to obtain, the amount of crystals needed are subtracted from the amount of 
 
 After we subtracted all the crystals needed to make the balls, if the crystals in the disposal are not enough, the
 number of crystal needed will show. If the crystal in the disposal is already enough, the number of the crystals left
-in the disposal will show as minus(-).<br>
-[Submission Link 912A] (http://codeforces.com/problemset/submission/912/45118471)
+in the disposal will show as minus(-).
+
+Submission Link 912A :(http://codeforces.com/problemset/submission/912/45118471)
 
 
 # Problem 854: Fraction
@@ -41,6 +42,8 @@ and the denominator is not equal to n, or when the numerator can be divided by t
 and the denominator will keep randoming in the loop until they won't meet any of those requirements.
 
 And when the loop stops, we have found the integer for the numerator and the denominator.
+
+Submission Link : (http://codeforces.com/problemset/submission/854/45118608)
 
 
 # Problem 988: Diverse Team
@@ -69,3 +72,5 @@ of the looping are *students* times, and use the *if* in the second loop. The if
 are equal, then the *l* rating is false.
 
 Then, by creating another *for-loop* of the *students*, it typed out which in order which student is in the team.
+
+Submission Link: (http://codeforces.com/problemset/submission/988/45118633)
